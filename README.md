@@ -1,5 +1,5 @@
-#Leetcode Problems
+# Leetcode Problems
 
-| #   | Problem | Language | Difficulty |
-| --- | ------- | -------- | ---------- |
-|     |         |          |            |
+| #   | Problem                                        | Language   | Difficulty |
+| --- | ---------------------------------------------- | ---------- | ---------- |
+| 1   | Two Sum https://leetcode.com/problems/two-sum/ | JavaScript | Easy       |
