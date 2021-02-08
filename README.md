@@ -11,6 +11,5 @@
 | 451  | [ Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                                               | Python     | Medium     |
 | 1662 | [ Check If Two String Arrays are Equivalen](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                      | JavaScript | Easy       |
 | 1010 | [ Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | JavaScript | Medium     |
-
-| 200
-| [ Number of Islands](https://leetcode.com/problems/number-of-islands/) | Java | Medium |
+| 200  | [ Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                     | Java       | Medium     |
+| 1029 | [ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)                                                                 | Java       | Medium     |
