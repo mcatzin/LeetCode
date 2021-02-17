@@ -17,3 +17,4 @@
 | 133  | [ Clone Graph](https://leetcode.com/problems/clone-graph/)                                                                                 | Java       | Medium     |
 | 139  | [ Word Break](https://leetcode.com/problems/word-break/)                                                                                   | Java       | Medium     |
 | 938  | [ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                       | Java       | Easy       |
+| 230  | [ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                             | Java       | Medium     |
