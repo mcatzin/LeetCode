@@ -18,3 +18,4 @@
 | 139  | [ Word Break](https://leetcode.com/problems/word-break/)                                                                                   | Java       | Medium     |
 | 938  | [ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                                       | Java       | Easy       |
 | 230  | [ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                             | Java       | Medium     |
+| 98   | [ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)                                                  | Java       | Medium     |
